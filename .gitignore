@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!requirements.txt
+
+!*/
+!L*/main.ipynb
+!L*/*.csv
